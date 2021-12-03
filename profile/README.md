@@ -3,10 +3,10 @@
     <tbody>
       <tr>
         <td>
-          <img src="https://user-images.githubusercontent.com/63892989/143169490-c3382537-cb92-4c28-867f-93374ebfdf10.png" alt="screenshot" width="500" />
+          <img src="https://user-images.githubusercontent.com/63892989/144633780-676fe1c3-7e0c-4989-8e7d-909b1b057654.png" alt="screenshot" width="500" />
         </td>
         <td>
-          <img src="https://user-images.githubusercontent.com/63892989/143169494-71d33612-378b-418d-a2fb-77ef6d4aee32.png" alt="screenshot" width="500" />
+          <img src="https://user-images.githubusercontent.com/63892989/144633792-d56e16a1-b560-4f37-8f75-f43d5db443f7.png" alt="screenshot" width="500" />
         </td>
       </tr>
     </tbody>
