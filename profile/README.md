@@ -49,6 +49,7 @@ Todo의 기본적인 기능과 더불어 할일의 목록을 `코스` 라고 명
 
 ### 부록 🗂
 
-1. [디자인 시안이 궁금하면?]()
-1. [이슈 및 건의사항이 있다면?]()
-1. [저희 팀원와 소통하고 싶다면?]()
+1. [프로토타이핑 구경하기](https://xd.adobe.com/view/ffec9bcc-87d9-4bc6-b873-721709411173-aabf)
+1. [DB 설계 구경하기](https://suave-bush-085.notion.site/DB-55e662c356b54643a7b8d370cdde8adc)
+1. 이슈 및 건의사항이 있다면? 각 서비스의 issues 탭을 통해서 남겨주시고 프로젝트와 관련된 내용은 [belf-kr/.github/issues](https://github.com/belf-kr/.github/issues) 에 남겨주세요.
+1. [저희 팀원와 소통하고 싶다면?](http://belfhq.slack.com)
