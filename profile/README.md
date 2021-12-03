@@ -36,7 +36,7 @@ Todo의 기본적인 기능과 더불어 할일의 목록을 `코스` 라고 명
 
 ### 이외 더 자세한 내용은 🤔
 
-[belf notion](https://suave-bush-085.notion.site/Belf-27b87963790b4e43baae2e0c3c6ae123) 을 참고해주세요!
+[belf notion](https://parkgang.notion.site/Belf-27b87963790b4e43baae2e0c3c6ae123) 을 참고해주세요!
 어떻게 팀원과 협업했는지 프로젝트를 진행하면서 발생한 이슈와 같은 내용이 작성되어 있습니다.
 
 ### MSA는 아래와 같이 구성되어 있어요 🔥
@@ -50,6 +50,6 @@ Todo의 기본적인 기능과 더불어 할일의 목록을 `코스` 라고 명
 ### 부록 🗂
 
 1. [프로토타이핑 구경하기](https://xd.adobe.com/view/ffec9bcc-87d9-4bc6-b873-721709411173-aabf)
-1. [DB 설계 구경하기](https://suave-bush-085.notion.site/DB-55e662c356b54643a7b8d370cdde8adc)
+1. [DB 설계 구경하기](https://parkgang.notion.site/DB-55e662c356b54643a7b8d370cdde8adc)
 1. 이슈 및 건의사항이 있다면? 각 서비스의 issues 탭을 통해서 남겨주시고 프로젝트와 관련된 내용은 [belf-kr/.github/issues](https://github.com/belf-kr/.github/issues) 에 남겨주세요.
 1. [저희 팀원와 소통하고 싶다면?](http://belfhq.slack.com)
