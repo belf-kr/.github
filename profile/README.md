@@ -23,7 +23,7 @@
 <p>
 
 일상생활에서 할 일을 까먹지 않기 위해서 Todo 앱을 사용해 보신 적이 있으신가요? 규칙적으로 잘 정리된 Todo를 공유해 보고 싶지 않은가요? 저희의 서비스가 그 고민을 해결해드립니다!  
-저희 [Yamu](https://github.com/orgs/belf-kr/teams/yamu) team은
+belf는 [Yamu](https://github.com/orgs/belf-kr/teams/yamu) team과 함께 졸업과제를 위해 진행된 프로젝트입니다.
 
 </p>
 
