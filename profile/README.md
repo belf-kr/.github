@@ -30,7 +30,7 @@ belf는 졸업 과제를 위해 진행된 프로젝트입니다. 팀원과 함�
 Todo의 기본적인 기능과 더불어 할일의 목록을 `코스` 라고 명명하여 다른 사람이 진행하는 `코스` 를 공유를 통해 다른 사람의 할일을 직접 따라해보면서 새로운 insight를 도출할 수 있는 기능이 탄생하였습니다.
 
 이외 `MSA` 를 적용할 만큼 규모가 큰 프로젝트는 아니지만 한번 적용해보고 싶기도 하고 팀원들의 stack이 모두 달라서 `MSA` 형태로 개발하는 것이 더 생산적이라는 판단하에 `MSA` 형태로 개발되었습니다.
-서비스 종류 및 사용된 stack은 [org의 repo](https://github.com/orgs/belf-kr/repositories) 를 통해 살펴보실 수 있으며 Azure에 `k8s` 를 사용하여 인프라를 관리했습니다.
+서비스 종류 및 사용된 stack은 [org의 repo](https://github.com/orgs/belf-kr/repositories) 를 통해 살펴보실 수 있으며 `k8s` 으로 서비스를 배포 및 관리하였습니다.
 
 </p>
 
