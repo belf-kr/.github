@@ -34,12 +34,18 @@ Todo의 기본적인 기능과 더불어 할일의 목록을 `코스` 라고 명
 
 </p>
 
-### MSA는 아래와 같이 구성되어 있어요 🔥
-
 ### 이외 더 자세한 내용은 🤔
 
 [belf notion](https://suave-bush-085.notion.site/Belf-27b87963790b4e43baae2e0c3c6ae123) 을 참고해주세요!
 어떻게 팀원과 협업했는지 프로젝트를 진행하면서 발생한 이슈와 같은 내용이 작성되어 있습니다.
+
+### MSA는 아래와 같이 구성되어 있어요 🔥
+
+각각의 서비스는 `k8s` 의 `service` level으로 관리되기 때문에 `k8s` 관련 다이어그램을 첨부하였습니다.
+
+> k8s cluster는 3개 Node를 가지고 있으며 6개의 서비스가 돌아가는 것을 확인할 수 있어요!
+
+<img width="848" alt="스크린샷 2021-12-04 오전 2 47 38" src="https://user-images.githubusercontent.com/63892989/144649064-f7a18fdf-b91c-4f5e-8b02-748aa0879ee0.png">
 
 ### 부록 🗂
 
