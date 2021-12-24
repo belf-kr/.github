@@ -34,9 +34,11 @@ Todo의 기본적인 기능과 더불어 할일의 목록을 `코스` 라고 명
 
 </p>
 
-### 서비스 접속 주소는? 📱
+### 서비스 접속 주소 및 사용법은? 📱
 
 [https://belf.xyz](https://belf.xyz) 입니다. 맨 위에 🔗으로 지정 된 Organization Profile의 URL에도 적어놓았어요.
+
+서비스 사용법은 [서비스 사용 매뉴얼](https://parkgang.notion.site/36f01d56dff643dfa1db264e33f18d7d) 에 작성되어있어요.
 
 > 참고로 qa 환경은 [https://qa.belf.xyz](https://qa.belf.xyz) 랍니다.
 
