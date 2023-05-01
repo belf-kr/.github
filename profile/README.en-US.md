@@ -20,12 +20,15 @@
 `A todo service to share user's course`
 
 </div>
+
+[`한국어(KR)`](./README.md) | [English](./README.en-US.md)
+
 <p>
 
 > Have you ever use Todo application not to forget what todo in your life? Haven't you ever wanted to share well-organized todo?
 > Our service solve your needs!
 
-Belf is proceeded project for graduation homework. We decided to develop a web service product line with my team member, and while thinking about what service to develop, 🤔 Since we work and learn at the same time, it would be difficult to set the project level high from the beginning, so why don't we create a service while expanding the function to `continuously` in a simple Todo app? That's the conclusion and the project was carried out accordingly.
+Belf is project for graduation homework. We decided to develop a web service product line with my team member, and while thinking about what service to develop, 🤔 Since we work and learn at the same time, it would be difficult to set the project level high from the beginning, so why don't we create a service while expanding the function to `continue` in a simple Todo app? That's the conclusion and the project was carried out accordingly.
 
 In addition to the basic function of Todo, the to-do list was named `course`, and the ability to derive new insights by directly copying other people's to-do through sharing the `course` conducted by others was created.
 
